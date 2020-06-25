@@ -13,3 +13,5 @@ Oculus Rift (s)と専用カメラのOvrivisionProを用いて,OvrivisionProか�
 2. Oculus RIftとOvrivisionをパソコンにつなげる
 3. ソフトの起動
 4. Ovrivisionで取得しているリアルタイム映像がOculus上で見れます.
+
+![pic](res.png)
